@@ -1,0 +1,5 @@
+ECHO is on.
+
+#Ignore all SQLite databases
+
+db/*.sqlite3
